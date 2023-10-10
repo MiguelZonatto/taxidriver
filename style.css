@@ -1,0 +1,17 @@
+body{
+    background-color: orange;
+}
+.taxiDriver{
+    text-align: center;
+    vertical-align: top ;
+}
+.taxiDriver img{
+    width:  50%;
+}
+h1{
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
