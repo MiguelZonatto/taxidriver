@@ -1,5 +1,6 @@
 body{
     background-color: orange;
+    background-image: url("papel-de-parede-xadrez-mod-41-papel-de-parede-para-balcao.webp");
 }
 .taxiDriver{
     text-align: center;
@@ -10,8 +11,23 @@ body{
 }
 h1{
     text-align: center;
+    color: orange;
 }
 
 li{
     display: inline;
+    color: orange;
+    margin-top:down;
+}
+.flexBox{
+    display: flex
+}
+.itens{
+    color: orange;
+    font-size: 40px;
+ 
+}
+.itens2{
+    color: orange;
+    font-size: 40px;
 }
